@@ -12,6 +12,9 @@ The dataset consists of MRI images of brain tumors, categorized into four classe
 - Glioma Tumor
 - Meningioma Tumor
 
+You can access the dataset at the link below:
+https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
+
 ## Installation
 
 ### Prerequisites
