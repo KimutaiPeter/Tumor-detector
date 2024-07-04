@@ -1,0 +1,29 @@
+.body{
+    width: 100vw;
+    height: 100vh;
+
+}
+
+
+.continue_button{
+    background-color: rgb(0, 128, 220);
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 12px;
+}
+
+
+.file_container {
+    gap: 5px;
+}
+
+.file_labels {
+    gap: 5px;
+    width: 200px;
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
