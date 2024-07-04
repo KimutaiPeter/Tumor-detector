@@ -2,15 +2,15 @@
 
 ## Overview
 
-This repository contains the code and resources for a computer vision model designed to assist in the detection of cancerous cells from medical images. The project utilizes deep learning techniques to provide accurate and efficient diagnostic support, complete with an intuitive user interface for deployment.
+This repository contains the code and resources for a computer vision model designed to assist in the detection of cancerous cells from medical images. The project utilizes logistic regression to provide accurate and efficient diagnostic support, complete with an intuitive user interface for deployment.
 
-## Features
+## Dataset
+The dataset consists of MRI images of brain tumors, categorized into four classes:
 
-- **Deep Learning Model:** A convolutional neural network (CNN) trained on medical images for cancer detection.
-- **Data Augmentation:** Techniques to enhance model generalization across diverse datasets.
-- **Interpretability:** Gradient-weighted Class Activation Mapping (Grad-CAM) for visual explanations of the model’s predictions.
-- **User Interface:** A web-based application for easy deployment and interaction with the model.
-
+- No Tumor
+- Pituitary Tumor
+- Glioma Tumor
+- Meningioma Tumor
 
 ## Installation
 
